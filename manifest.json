@@ -1,0 +1,40 @@
+{
+    "manifest_version": 3,
+    "name": "Koishi Komeiji",
+    "description": "A silly yet dangerous girl awaits you.",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "TemuTheRetardLord"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/y2mate.com - Touhou Halozy Monosugoi Space Shuttle de Koishi ga Monosugoi uta spanish  english subtitles_320kbps"
+            ]
+            
+           "wallpaper":
+            {
+                "light":
+                {
+                    "image": "wallpaper/touhou-kkhta.gif",
+                    "text_color": "#ffffff",
+                    "text_shadow": "#cccccc"
+                },
+                "dark":
+                {
+                    "image": "wallpaper/touhou-kkhta.gif",
+                    "text_color": "#ffffff",
+                    "text_shadow": "#cccccc"
+                }
+        }
+    }
+}
